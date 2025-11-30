@@ -1,0 +1,8 @@
+# Requirements For the Project
+
+numpy
+pandas
+scikit-learn
+nltk
+joblib
+requests
