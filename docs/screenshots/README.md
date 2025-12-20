@@ -17,11 +17,3 @@ Displays dataset structure, labels, and basic statistics after loading the SMS S
 ![Model Predictions](model_predictions.png)
 
 Shows spam vs non-spam predictions along with class probabilities generated using Multinomial Naive Bayes.
-
----
-
-## Classification Confidence
-
-![Prediction Probabilities](prediction_probabilities.png)
-
-Demonstrates probability-based classification confidence for real-world SMS examples.
